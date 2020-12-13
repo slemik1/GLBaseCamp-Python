@@ -7,8 +7,6 @@ numbers_holes = {
 }
 
 while True:
-  user_input = None
-
   try:
     user_input = input('Hello, enter any numbers from 0 to 9 and I will tell you how many holes there are: ')
 
